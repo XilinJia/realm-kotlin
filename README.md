@@ -8,6 +8,8 @@ Project structure is changed to make Intellij IDE work.  gradlew needs to be run
 
 Testing are performed on the dev versions. Maven artifacts can be published (tested locally), but can not be tested upon yet.
 
+#### This project is rebranded for publishing on maven central, and is no longer maintained.  The new project is [here](https://github.com/XilinJia/krdb)
+
 ------------------------------------
 
 > [!WARNING]
